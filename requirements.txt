@@ -20,7 +20,7 @@ PyJWT==2.6.0
 pymongo==4.6.3
 python-decouple==3.8
 python-dotenv==1.0.0
-python-jose==3.3.0
+python-jose==3.4.0
 python-multipart==0.0.18
 PyYAML==6.0
 rsa==4.9
